@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="JzSjUUDrIx2If8zjqQ0e">
+    <mxGraphModel dx="2755" dy="2414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YMRe1pxBL1tjlgJULV54-7" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="760" width="1000" x="-200" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Puerta&amp;nbsp;" vertex="1">
+          <mxGeometry height="140" width="260" x="-170" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-2" parent="YMRe1pxBL1tjlgJULV54-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Tamaño&lt;div&gt;Color&amp;nbsp;&lt;/div&gt;&lt;div&gt;Material&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="64" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-3" parent="YMRe1pxBL1tjlgJULV54-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="260" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-4" parent="YMRe1pxBL1tjlgJULV54-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir&amp;nbsp;&lt;div&gt;Cerrar&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="260" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Computadora&amp;nbsp;" vertex="1">
+          <mxGeometry height="130" width="260" x="-170" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-10" parent="YMRe1pxBL1tjlgJULV54-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Capacidad&lt;div&gt;Marca&amp;nbsp;&lt;/div&gt;&lt;div&gt;Color&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-11" parent="YMRe1pxBL1tjlgJULV54-9" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="260" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-12" parent="YMRe1pxBL1tjlgJULV54-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Procesar datos&lt;div&gt;Almacenar información&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="260" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-14" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Maleta" vertex="1">
+          <mxGeometry height="160" width="270" x="130" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-15" parent="YMRe1pxBL1tjlgJULV54-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Capacidad&lt;div&gt;Cantidad de llantas&amp;nbsp;&lt;/div&gt;&lt;div&gt;Color&amp;nbsp;&lt;/div&gt;&lt;div&gt;Marca&lt;/div&gt;&lt;div&gt;Tamaño&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="84" width="270" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-16" parent="YMRe1pxBL1tjlgJULV54-14" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="270" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-17" parent="YMRe1pxBL1tjlgJULV54-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Transportar objetos&lt;div&gt;Deslizarse&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="270" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-18" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Cuadernos&amp;nbsp;" vertex="1">
+          <mxGeometry height="170" width="270" x="130" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-19" parent="YMRe1pxBL1tjlgJULV54-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Cantidad de hojas&amp;nbsp;&lt;div&gt;Marca&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cocido/resorte&lt;/div&gt;&lt;div&gt;Forma&lt;/div&gt;&lt;div&gt;Rayado / cuadros&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="270" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-20" parent="YMRe1pxBL1tjlgJULV54-18" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-21" parent="YMRe1pxBL1tjlgJULV54-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir&amp;nbsp;&lt;div&gt;Cerrar&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="270" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-28" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Classname" vertex="1">
+          <mxGeometry height="170" width="260" x="-173" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-29" parent="YMRe1pxBL1tjlgJULV54-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Potencia&lt;div&gt;Velocidades&amp;nbsp;&lt;/div&gt;&lt;div&gt;Material&amp;nbsp;&lt;/div&gt;&lt;div&gt;Botones&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cuchillas&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-30" parent="YMRe1pxBL1tjlgJULV54-28" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="260" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRe1pxBL1tjlgJULV54-31" parent="YMRe1pxBL1tjlgJULV54-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Mezclar&amp;nbsp;&lt;div&gt;Triturar&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="260" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
