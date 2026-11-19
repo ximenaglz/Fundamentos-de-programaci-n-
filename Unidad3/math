@@ -1,0 +1,23 @@
+import math 
+
+radio = float (input("Radio del circulo: "))
+
+area = math.pi * math.pow(radio, 2)
+perimetro = 2 * math.pi * radio 
+
+print("Área:", round(area, 2))
+print("Perímetro:", round(perimetro, 2))
+print("Raíz cuadrada del radio:", round(math.sqrt(radio), 2))
+print("Techo del área:", math.ceil(area))
+
+x = 3
+y = 2
+pow = math.pow(x, y)
+print ("x, y:", pow)
+
+x = 90
+radians = math.radians(x)
+print ("x:", radians)
+#Explique como funciona la linea 1. Tambien seleccione dos operaciones de la libreria math y ejecutelas
+
+#La linea 1 basicamente importa las operaciones matematicas sin tener que hacer un archivo previo en la carpeta  
